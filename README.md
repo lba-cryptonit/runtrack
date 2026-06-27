@@ -12,3 +12,6 @@ personnalisés selon le niveau et les objectifs du coureur.
 - Frontend : HTML, CSS, JavaScript, React
 - Backend : Node.js, Express
 - Base de données : PostgreSQL
+
+## Disclaimer
+Je débute et l'évolution de ce projet sera lente alors n'hésitez pas à me suivre.
